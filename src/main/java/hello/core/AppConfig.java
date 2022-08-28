@@ -11,7 +11,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * 애플리케이션 설정 정보
+ * 수동 등록한 AppConfig
+ * - 애플리케이션 설정 정보
   */
 @Configuration
 public class AppConfig {
